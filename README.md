@@ -1,2 +1,2 @@
 # Chimera
-Tool to track your spending
+Tool to track your spending at home
